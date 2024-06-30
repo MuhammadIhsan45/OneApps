@@ -3,7 +3,7 @@
 
 **OneApps**
 <br>
-OneApps adalah aplikasi Integrasi Aplikasi Terpusat yang memudahkan pengguna untuk mengakses berbagai aplikasi dan link website dalam satu platform. Tidak perlu lagi membuang waktu untuk mencari aplikasi satu per satu, OneApps menyediakan akses langsung ke semua yang Anda butuhkan dengan mudah.
+OneApps adalah aplikasi Integrasi Aplikasi Terpusat yang memudahkan pengguna untuk mengakses berbagai aplikasi dan website dalam satu platform. Tidak perlu lagi membuang waktu untuk mencari aplikasi satu per satu, OneApps menyediakan akses langsung ke semua yang Anda butuhkan dengan mudah.
 
 **Fitur Utama:**<br>
 (+) Integrasi Seamless: Menggabungkan berbagai aplikasi dan link website ke dalam satu platform.<br>
