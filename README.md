@@ -1,4 +1,5 @@
-![Preview One Apps](https://github.com/MuhammadIhsan45/OneApps/assets/96335811/418ad326-d324-441f-a3fe-5e87139b474d)
+![OneAppsPre](https://github.com/MuhammadIhsan45/OneApps/assets/96335811/ff26c762-66c6-4c9a-bc33-97378570902d)
+
 **OneApps**
 <br>
 OneApps adalah aplikasi Integrasi Aplikasi Terpusat yang memudahkan pengguna untuk mengakses berbagai aplikasi dan link website dalam satu platform. Tidak perlu lagi membuang waktu untuk mencari aplikasi satu per satu, OneApps menyediakan akses langsung ke semua yang Anda butuhkan dengan mudah.
